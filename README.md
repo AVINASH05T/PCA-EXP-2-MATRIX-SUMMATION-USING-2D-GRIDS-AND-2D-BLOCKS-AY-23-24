@@ -2,7 +2,7 @@
 
 ## NAME - AVINASH T
 ## REGISTER NO - 212223230026
-## EX. NO - 1
+## EX. NO - 2
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
